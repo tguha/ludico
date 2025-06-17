@@ -1,0 +1,27 @@
+# default config
+
+log_bgfx = false
+locale = "en"
+
+[gfx]
+width = 1280
+height = 720
+vsync = false
+maximized = false
+monitor = 0
+sun_depth_size = 1024
+
+[mouse]
+sensitivity = 1.0
+scroll_sensitivity = 0.35
+
+[controls]
+primary     = "mouse:left"
+secondary   = "mouse:right"
+up          = "keyboard:w"
+down        = "keyboard:s"
+left        = "keyboard:a"
+right       = "keyboard:d"
+jump        = "keyboard:space"
+drop        = "keyboard:q"
+inventory   = "keyboard:e"

@@ -1,0 +1,4 @@
+# archimedes config file
+header-lib/archimedes/include/archimedes.hpp
+exclude-ns-std
+explicit-enable

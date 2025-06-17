@@ -1,0 +1,37 @@
+locale = "en"
+
+[tile]
+stone = "Stone"
+dirt = "Dirt"
+copper = "Copper"
+iron = "Iron"
+silver = "Silver"
+gold = "Gold"
+brick = "Brick"
+sun_crystal = "Sun Crystal"
+grass = "Grass"
+water = "Water"
+essence_tank = "Essence Tank"
+
+[tool]
+
+[item]
+torch = "Torch"
+seed_dandelion = "Dandelion Seed"
+seed_daisy = "Daisy Seed"
+seed_sunflower = "Sunflower Seed"
+seed_hydrangea = "Hydrangea Seed"
+battery_fmt = "{} Battery"
+battery_copper = "Copper"
+tool_copper_fmt = "Copper {}"
+hammer = "Hammer"
+claw = "Claw"
+
+[entity]
+player = "Player"
+portal = "Portal"
+dandelion = "Dandelion"
+sunflower = "Sunflower"
+daisy = "Daisy"
+hydrangea = "Hydrangea"
+shrine = "Shrine"
